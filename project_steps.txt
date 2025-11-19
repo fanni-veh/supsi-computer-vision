@@ -1,0 +1,4 @@
+Download dataset
+Choose one class to detect
+take 10 random images from testing
+binary mask chosen class
